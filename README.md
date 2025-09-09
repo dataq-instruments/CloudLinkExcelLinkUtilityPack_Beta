@@ -6,6 +6,6 @@ Note: For Windows 10 and higher, Windows will automatically scan all downloaded 
 
 Here are the extra feature of beta addon
 
-Programable Digital and Alarm Outputs (digitaloutputii.exe): tag "AFTER" and "INIT" are added, so that you can use control the delay better, "INIT 1, DELAY 20 AFTER CH3>1, 0" , initialize with 1, delay 30 seconds after the reading of CH3 is greater than 1, then output 0
+Programable Digital and Alarm Outputs (digitaloutputii.exe): tag "AFTER" and "INIT" are added, so that you can control the delay better, "INIT 1, DELAY 20 AFTER CH3>1, 0" , initialize with 1, delay 30 seconds after the reading of CH3 is greater than 1, then output 0
 
-ExcelLink: Allows selection of worksheet if a work book is used
+ExcelLink: Allows selection of worksheet if a work book is used, for example, you can send data to worksheet "LabData" instead of the default "Sheet1" 
