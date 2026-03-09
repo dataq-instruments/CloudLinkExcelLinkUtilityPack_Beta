@@ -10,4 +10,4 @@ Programable Digital and Alarm Outputs (digitaloutputii.exe): tag "AFTER" and "IN
 
 ExcelLink: Allows selection of worksheet if a work book is used, for example, you can send data to worksheet "LabData" instead of the default "Sheet1" 
 
-CloudLink: This version will resume when WinDaq's buffer over run, CloudLink internal buffer overrun and WinDaq channel configuration is changed
+CloudLink (remotedatamonitor.exe): This version will resume when WinDaq's buffer over run, CloudLink internal buffer overrun and WinDaq channel configuration is changed
